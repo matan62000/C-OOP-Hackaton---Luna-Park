@@ -94,7 +94,7 @@ This hackathon provided practical experience in:
 Developed as part of our Object-Oriented Programming final hackathon by:
 
 - **Matan Buhbut**
-- **Omer Golan**
+- **Omer Golan - o-OG-o**
 - **Daniel Edri**
 
 Three Software Engineering students working together to apply OOP principles in a practical C++ project.
